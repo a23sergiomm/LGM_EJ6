@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Inter&display=swap');
 
-  main{
+main{
     background-color: #07575B;
     text-align: center;
     border: 2px solid #04d5ff;
     margin-left: 750px;
     margin-right: 750px;
-    padding-bottom: 70px;
-    font-family: "Agbalumo";
+    padding-bottom: 80px;
+    margin-top: 30px;
 }
 
 section h2{
@@ -15,6 +15,7 @@ section h2{
    -webkit-text-stroke: 1px  #0ebbde;
     margin-bottom: 5%;
     margin-top: 5%;
+    font-family: "Agbalumo";
 }
 
 section img{
@@ -28,6 +29,7 @@ section p{
     margin-right: 50px;
     color:rgb(0, 255, 208);
     font-size: large;
+    font-family: 'Inter';
 }
 
 section a:first-child{
@@ -40,6 +42,7 @@ section a:first-child{
     float: left;
     margin-left: 12%;
     font-weight: bold;
+    font-family: 'Inter';
 }
 
 section a:nth-child(2){
@@ -52,6 +55,7 @@ section a:nth-child(2){
     float: right;
     margin-right: 12%;
     font-weight: bold;
+    font-family: 'Inter';
 }
 
 section a:first-child:hover{
@@ -61,6 +65,7 @@ section a:first-child:hover{
     border:2px solid white ;
     border-radius: 10px;
     box-shadow: rgb(0, 255, 208) 0px 7px 29px 0px;
+    font-family: 'Inter';
 }
 
 section a:nth-child(2):hover{
@@ -70,4 +75,5 @@ section a:nth-child(2):hover{
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
     box-shadow: rgb(238, 238, 238) 0px 7px 29px 0px;
+    font-family: 'Inter';
 }
