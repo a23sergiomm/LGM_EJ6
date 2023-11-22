@@ -1,11 +1,13 @@
-main{
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Inter&display=swap');
+
+  main{
     background-color: #07575B;
     text-align: center;
     border: 2px solid #04d5ff;
     margin-left: 750px;
     margin-right: 750px;
     padding-bottom: 70px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-family: "Agbalumo";
 }
 
 section h2{
